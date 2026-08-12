@@ -1,0 +1,12 @@
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\bin\Debug\net8.0\NakisCAD.Core.deps.json
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\bin\Debug\net8.0\NakisCAD.Core.dll
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\bin\Debug\net8.0\NakisCAD.Core.pdb
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\obj\Debug\net8.0\NakisCAD.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\obj\Debug\net8.0\NakisCAD.Core.AssemblyInfoInputs.cache
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\obj\Debug\net8.0\NakisCAD.Core.AssemblyInfo.cs
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\obj\Debug\net8.0\NakisCAD.Core.csproj.CoreCompileInputs.cache
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\obj\Debug\net8.0\NakisCAD.Core.dll
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\obj\Debug\net8.0\refint\NakisCAD.Core.dll
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\obj\Debug\net8.0\NakisCAD.Core.pdb
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\obj\Debug\net8.0\ref\NakisCAD.Core.dll
+E:\Belgeler\Default Project\NakisCAD\NakisCAD.Core\obj\Debug\net8.0\NakisCAD.Core.csproj.AssemblyReference.cache

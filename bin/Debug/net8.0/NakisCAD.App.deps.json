@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NakisCAD.App/1.0.0": {
+        "dependencies": {
+          "NakisCAD.Core": "1.0.0"
+        },
+        "runtime": {
+          "NakisCAD.App.dll": {}
+        }
+      },
+      "NakisCAD.Core/1.0.0": {
+        "runtime": {
+          "NakisCAD.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NakisCAD.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NakisCAD.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
